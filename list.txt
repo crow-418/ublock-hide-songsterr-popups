@@ -1,0 +1,21 @@
+! Title: Hide Songsterr Popups
+! Description: Hide all annoying popups from Songsterr on Songsterr
+! Homepage: https://github.com/crow-418/ublock-hide-songsterr-popups
+! License: https://github.com/crow-418/ublock-hide-songsterr-popups/blob/main/LICENSE
+
+! Hide overlay popup
+www.songsterr.com##.C0d2hw
+
+! Hide bottom page banner
+www.songsterr.com##.Cek20l
+
+! Hide modal popup
+www.songsterr.com##.rq25k
+
+! Hide blurriness from modal popup
+www.songsterr.com##.Cip2pk
+www.songsterr.com##.Cto1rx
+www.songsterr.com##.D5an6
+
+! Hide banner under artist name
+www.songsterr.com##.Cuq1kp
